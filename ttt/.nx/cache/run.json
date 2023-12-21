@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run ttt:build",
+    "startTime": "2023-12-20T19:39:14.584Z",
+    "endTime": "2023-12-20T19:39:24.649Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "ttt:build:production",
+      "target": "build",
+      "projectName": "ttt",
+      "hash": "15412902192647212734",
+      "startTime": "2023-12-20T19:39:14.593Z",
+      "endTime": "2023-12-20T19:39:24.648Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

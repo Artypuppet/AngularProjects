@@ -41,8 +41,32 @@
   "fileMap": {
     "nonProjectFiles": [
       {
+        "file": "src/app/Square/Square.component.ts",
+        "hash": "14086635854408192727"
+      },
+      {
+        "file": "src/app/Board/Board.component.html",
+        "hash": "3338319803760480428"
+      },
+      {
         "file": "src/app/app.component.html",
-        "hash": "13932428353396809338"
+        "hash": "2553116541527045626"
+      },
+      {
+        "file": "src/app/app.component.ts",
+        "hash": "15022954199676876143"
+      },
+      {
+        "file": "src/app/Board/Board.component.ts",
+        "hash": "15016723084571376984"
+      },
+      {
+        "file": "src/app/Board/Board.component.scss",
+        "hash": "4786908657407798030"
+      },
+      {
+        "file": "src/app/Square/Square.component.html",
+        "hash": "4055606894390288348"
       }
     ],
     "projectFileMap": {
@@ -134,8 +158,52 @@
           ]
         },
         {
+          "file": "src/app/Board/Board.component.css",
+          "hash": "4055606894390288348"
+        },
+        {
+          "file": "src/app/Board/Board.component.html",
+          "hash": "12621132767653285988"
+        },
+        {
+          "file": "src/app/Board/Board.component.spec.ts",
+          "hash": "12366272893537444807",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/Board/Board.component.ts",
+          "hash": "8677338840554233207",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/Square/Square.component.css",
+          "hash": "4055606894390288348"
+        },
+        {
+          "file": "src/app/Square/Square.component.html",
+          "hash": "6759535188303292188"
+        },
+        {
+          "file": "src/app/Square/Square.component.spec.ts",
+          "hash": "3533631457699945171",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/Square/Square.component.ts",
+          "hash": "12892971098378669077",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
           "file": "src/app/app.component.html",
-          "hash": "6880513722212066549"
+          "hash": "609583385738121838"
         },
         {
           "file": "src/app/app.component.scss",
@@ -150,7 +218,7 @@
         },
         {
           "file": "src/app/app.component.ts",
-          "hash": "10977837577111220789",
+          "hash": "16825966166637370339",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
@@ -217,7 +285,7 @@
         },
         {
           "file": "tsconfig.json",
-          "hash": "6830907402848794383"
+          "hash": "3158854248950039576"
         },
         {
           "file": "tsconfig.spec.json",
