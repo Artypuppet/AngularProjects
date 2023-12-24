@@ -1,0 +1,1912 @@
+[NX Daemon Server] - 2023-12-22T16:20:27.243Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T16:20:27.253Z - [WATCHER]: Subscribed to changes within: c:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T16:20:27.258Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T16:20:27.260Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T16:20:27.260Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T16:20:27.262Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:20:27.328Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:20:27.329Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:20:27.329Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:20:28.078Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:20:28.079Z - Time taken for 'total for creating and serializing project graph' 816.0998999997973ms
+[NX Daemon Server] - 2023-12-22T16:20:28.081Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:20:28.081Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 817. Response time: 3.
+[NX Daemon Server] - 2023-12-22T16:20:28.084Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T16:20:28.084Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T16:20:28.084Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T16:20:28.084Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T16:20:28.086Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-12-22T16:20:28.086Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-12-22T16:20:28.086Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-12-22T16:20:40.664Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T16:20:40.664Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T16:20:40.665Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T16:20:40.667Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:20:40.667Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:20:40.668Z - Time taken for 'total for creating and serializing project graph' 0.19130000099539757ms
+[NX Daemon Server] - 2023-12-22T16:20:40.669Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:20:40.669Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T16:20:40.731Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-12-22T16:20:40.731Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-12-22T16:20:40.731Z - Handled HASH_TASKS. Handling time: 11. Response time: 0.
+[NX Daemon Server] - 2023-12-22T16:20:41.776Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:20:41.776Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T16:20:41.776Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:20:41.778Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:20:41.779Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:20:41.780Z - Time taken for 'total for creating and serializing project graph' 0.18689999915659428ms
+[NX Daemon Server] - 2023-12-22T16:20:41.780Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:20:41.780Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2023-12-22T16:20:46.770Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:46.861Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:46.955Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:47.030Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:47.093Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:47.288Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:47.347Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:47.415Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:47.472Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:47.533Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:47.629Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:47.771Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:47.881Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:48.788Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:48.897Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:49.115Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:49.239Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:49.474Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:49.705Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:49.826Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:49.895Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.061Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.114Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.166Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.223Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.276Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.332Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.383Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.436Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.487Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.552Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.605Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.657Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.730Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.787Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.842Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.898Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:50.952Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:51.005Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:51.059Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:51.110Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:51.161Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:51.215Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:51.268Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:51.322Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:51.374Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:51.428Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:51.503Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:20:54.953Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:14.531Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:22:14.531Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:22:14.532Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:22:14.535Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:22:14.535Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:22:14.536Z - Time taken for 'total for creating and serializing project graph' 0.27359999902546406ms
+[NX Daemon Server] - 2023-12-22T16:22:14.538Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:22:14.538Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2023-12-22T16:22:14.601Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-12-22T16:22:14.601Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-12-22T16:22:14.601Z - Handled HASH_TASKS. Handling time: 6. Response time: 0.
+[NX Daemon Server] - 2023-12-22T16:22:15.522Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2023-12-22T16:22:15.522Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:22:15.523Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2023-12-22T16:22:15.525Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:22:15.525Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:22:15.527Z - Time taken for 'total for creating and serializing project graph' 0.23200000077486038ms
+[NX Daemon Server] - 2023-12-22T16:22:15.527Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:22:15.527Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T16:22:22.212Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:22.305Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:22.431Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:23.240Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:23.365Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:23.643Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:24.830Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:25.497Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:25.776Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:25.916Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:25.993Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.133Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.305Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.366Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.417Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.475Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.530Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.582Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.646Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.698Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.757Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.810Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.880Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.931Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:26.982Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.037Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.094Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.146Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.224Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.283Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.369Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.505Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.560Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.626Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.680Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.742Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.795Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.851Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.905Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:27.971Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.022Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.084Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.136Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.195Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.287Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.348Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.428Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.513Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.570Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.625Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.679Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.742Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.803Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.896Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:28.958Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:35.099Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:37.109Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:37.189Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:22:37.220Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:22:37.265Z - [REQUEST]: Responding to the client. recordOutputsHash
+[NX Daemon Server] - 2023-12-22T16:22:37.266Z - Done responding to the client recordOutputsHash
+[NX Daemon Server] - 2023-12-22T16:22:37.266Z - Handled RECORD_OUTPUTS_HASH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2023-12-22T16:22:38.713Z - [REQUEST]: Responding to the client. PROCESS_IN_BACKGROUND
+[NX Daemon Server] - 2023-12-22T16:22:38.714Z - Done responding to the client PROCESS_IN_BACKGROUND
+[NX Daemon Server] - 2023-12-22T16:22:38.714Z - Handled PROCESS_IN_BACKGROUND. Handling time: 1292. Response time: 1.
+[NX Daemon Server] - 2023-12-22T16:22:38.721Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:22:38.721Z - Uploading file artifacts
+[NX Daemon Server] - 2023-12-22T16:22:39.151Z - Done uploading file artifacts
+[NX Daemon Server] - 2023-12-22T16:22:39.151Z - Sending EndRun request
+[NX Daemon Server] - 2023-12-22T16:22:39.242Z - Done sending EndRun request
+[NX Daemon Server] - 2023-12-22T16:26:15.796Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:26:15.797Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-22T16:26:15.905Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:26:15.905Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-12-22T16:26:15.905Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:26:15.935Z - Time taken for 'hash changed files from watcher' 0.2630000002682209ms
+[NX Daemon Server] - 2023-12-22T16:26:16.108Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:27:01.115Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:01.116Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:01.116Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:01.118Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:27:01.118Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:27:01.119Z - Time taken for 'total for creating and serializing project graph' 0.14020000025629997ms
+[NX Daemon Server] - 2023-12-22T16:27:01.119Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:27:01.119Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-12-22T16:27:01.462Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:04.716Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:04.716Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:04.717Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:04.718Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:27:04.719Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:27:04.720Z - Time taken for 'total for creating and serializing project graph' 0.14299999922513962ms
+[NX Daemon Server] - 2023-12-22T16:27:04.720Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:27:04.720Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2023-12-22T16:27:05.042Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:16.321Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:27:16.551Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:27:16.618Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:27:19.901Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:19.902Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:19.902Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:19.904Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:27:19.904Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:27:19.906Z - Time taken for 'total for creating and serializing project graph' 0.18500000052154064ms
+[NX Daemon Server] - 2023-12-22T16:27:19.906Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:27:19.906Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T16:27:20.219Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:23.392Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:23.393Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:23.393Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:23.395Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:27:23.396Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:27:23.397Z - Time taken for 'total for creating and serializing project graph' 0.18029999919235706ms
+[NX Daemon Server] - 2023-12-22T16:27:23.397Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:27:23.397Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2023-12-22T16:27:23.725Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:26.913Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:26.914Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:26.914Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:26.916Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:27:26.916Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:27:26.917Z - Time taken for 'total for creating and serializing project graph' 0.16139999963343143ms
+[NX Daemon Server] - 2023-12-22T16:27:26.918Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:27:26.918Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T16:27:27.218Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:30.357Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:30.357Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:30.358Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:30.360Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:27:30.360Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:27:30.362Z - Time taken for 'total for creating and serializing project graph' 0.14069999940693378ms
+[NX Daemon Server] - 2023-12-22T16:27:30.362Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:27:30.362Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T16:27:30.678Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:33.883Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:33.883Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:33.884Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:33.886Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:27:33.886Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:27:33.888Z - Time taken for 'total for creating and serializing project graph' 0.14800000004470348ms
+[NX Daemon Server] - 2023-12-22T16:27:33.888Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:27:33.888Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T16:27:34.216Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:37.682Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:37.682Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:37.683Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:37.686Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:27:37.686Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:27:37.687Z - Time taken for 'total for creating and serializing project graph' 0.2052999995648861ms
+[NX Daemon Server] - 2023-12-22T16:27:37.687Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:27:37.687Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-12-22T16:27:38.045Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:38.681Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:38.681Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:38.682Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T16:27:38.684Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:27:38.684Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:27:38.685Z - Time taken for 'total for creating and serializing project graph' 0.1984000001102686ms
+[NX Daemon Server] - 2023-12-22T16:27:38.686Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:27:38.686Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T16:27:39.071Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:27:39.124Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-12-22T16:27:39.125Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:27:39.241Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:27:39.241Z - [REQUEST]: src/app/square.component.html,src/app/square.component.ts,src/app/square.component.spec.ts,src/app/square.component.css
+[NX Daemon Server] - 2023-12-22T16:27:39.241Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:27:39.274Z - Time taken for 'hash changed files from watcher' 8.480000000447035ms
+[NX Daemon Server] - 2023-12-22T16:28:27.209Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-12-22T16:28:27.210Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:28:27.318Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:28:27.318Z - [REQUEST]: src/app/square/square.component.css
+[NX Daemon Server] - 2023-12-22T16:28:27.318Z - [REQUEST]: src/app/square.component.css
+[NX Daemon Server] - 2023-12-22T16:28:27.348Z - Time taken for 'hash changed files from watcher' 0.688900001347065ms
+[NX Daemon Server] - 2023-12-22T16:28:29.239Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-12-22T16:28:29.239Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:28:29.347Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:28:29.347Z - [REQUEST]: src/app/square/square.component.html
+[NX Daemon Server] - 2023-12-22T16:28:29.347Z - [REQUEST]: src/app/square.component.html
+[NX Daemon Server] - 2023-12-22T16:28:29.374Z - Time taken for 'hash changed files from watcher' 0.2591000013053417ms
+[NX Daemon Server] - 2023-12-22T16:28:31.327Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:28:31.328Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-12-22T16:28:31.435Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:28:31.435Z - [REQUEST]: src/app/square/square.component.spec.ts
+[NX Daemon Server] - 2023-12-22T16:28:31.435Z - [REQUEST]: src/app/square.component.spec.ts
+[NX Daemon Server] - 2023-12-22T16:28:31.459Z - Time taken for 'hash changed files from watcher' 0.23049999959766865ms
+[NX Daemon Server] - 2023-12-22T16:28:33.355Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:28:33.356Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-12-22T16:28:33.464Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:28:33.464Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T16:28:33.464Z - [REQUEST]: src/app/square.component.ts
+[NX Daemon Server] - 2023-12-22T16:28:33.490Z - Time taken for 'hash changed files from watcher' 0.2607999984174967ms
+[NX Daemon Server] - 2023-12-22T16:30:12.274Z - [WATCHER]: src/app/square/square.component.spec.ts was modified
+[NX Daemon Server] - 2023-12-22T16:30:12.275Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:30:12.475Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:30:12.475Z - [REQUEST]: src/app/square/square.component.spec.ts
+[NX Daemon Server] - 2023-12-22T16:30:12.475Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:30:12.498Z - Time taken for 'hash changed files from watcher' 0.20160000026226044ms
+[NX Daemon Server] - 2023-12-22T16:31:16.628Z - [WATCHER]: tsconfig.json was modified
+[NX Daemon Server] - 2023-12-22T16:31:16.628Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:31:17.031Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:31:17.031Z - [REQUEST]: tsconfig.json
+[NX Daemon Server] - 2023-12-22T16:31:17.031Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:31:17.060Z - Time taken for 'hash changed files from watcher' 0.27219999954104424ms
+[NX Daemon Server] - 2023-12-22T16:36:46.673Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:36:46.687Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T16:36:47.495Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:36:47.495Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T16:36:47.495Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:36:47.556Z - Time taken for 'hash changed files from watcher' 0.33129999972879887ms
+[NX Daemon Server] - 2023-12-22T16:37:25.618Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T16:37:25.619Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:37:27.227Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:37:27.228Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T16:37:27.228Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:37:27.259Z - Time taken for 'hash changed files from watcher' 0.32049999944865704ms
+[NX Daemon Server] - 2023-12-22T16:37:45.636Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T16:37:45.636Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:37:48.848Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:37:48.848Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T16:37:48.848Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:37:48.879Z - Time taken for 'hash changed files from watcher' 0.3645000010728836ms
+[NX Daemon Server] - 2023-12-22T16:38:23.146Z - [WATCHER]: src/app/square/square.component.html was modified
+[NX Daemon Server] - 2023-12-22T16:38:23.146Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:38:29.554Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:38:29.554Z - [REQUEST]: src/app/square/square.component.html
+[NX Daemon Server] - 2023-12-22T16:38:29.554Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:38:29.583Z - Time taken for 'hash changed files from watcher' 0.4863999988883734ms
+[NX Daemon Server] - 2023-12-22T16:39:20.629Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-22T16:39:20.629Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:39:21.110Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:39:27.034Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:39:27.034Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2023-12-22T16:39:27.034Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:39:27.064Z - Time taken for 'hash changed files from watcher' 0.34969999827444553ms
+[NX Daemon Server] - 2023-12-22T16:39:36.868Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-22T16:39:36.868Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:39:37.006Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:39:43.278Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:39:43.278Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2023-12-22T16:39:43.278Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:39:43.307Z - Time taken for 'hash changed files from watcher' 0.5252000000327826ms
+[NX Daemon Server] - 2023-12-22T16:40:37.186Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:40:37.249Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:40:56.761Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-22T16:40:56.762Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:40:56.885Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:41:03.164Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:41:03.164Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2023-12-22T16:41:03.164Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:41:03.193Z - Time taken for 'hash changed files from watcher' 0.4505000002682209ms
+[NX Daemon Server] - 2023-12-22T16:41:57.023Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:44:58.134Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:44:58.136Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-22T16:44:58.399Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:45:04.546Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:45:04.546Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2023-12-22T16:45:04.546Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:45:04.581Z - Time taken for 'hash changed files from watcher' 0.2280000001192093ms
+[NX Daemon Server] - 2023-12-22T16:45:58.556Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:46:17.951Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:46:17.953Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2023-12-22T16:46:18.310Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:46:24.368Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:46:24.368Z - [REQUEST]: src/app/app.module.ts
+[NX Daemon Server] - 2023-12-22T16:46:24.368Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:46:24.397Z - Time taken for 'hash changed files from watcher' 0.5891000013798475ms
+[NX Daemon Server] - 2023-12-22T16:46:46.233Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-22T16:46:46.233Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:46:46.389Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:46:52.642Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:46:52.642Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2023-12-22T16:46:52.642Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:46:52.674Z - Time taken for 'hash changed files from watcher' 0.6274999994784594ms
+[NX Daemon Server] - 2023-12-22T16:47:30.037Z - [WATCHER]: src/app/square/square.component.html was modified
+[NX Daemon Server] - 2023-12-22T16:47:30.037Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:47:30.190Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:47:36.452Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:47:36.452Z - [REQUEST]: src/app/square/square.component.html
+[NX Daemon Server] - 2023-12-22T16:47:36.452Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:47:36.490Z - Time taken for 'hash changed files from watcher' 0.5537000000476837ms
+[NX Daemon Server] - 2023-12-22T16:47:53.386Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T16:47:53.388Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T16:48:31.710Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:48:31.711Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-22T16:48:34.199Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T16:48:34.200Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T16:48:34.201Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T16:48:34.204Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:48:34.204Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:48:34.204Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-12-22T16:48:34.204Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:48:34.238Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:48:34.240Z - Time taken for 'total for creating and serializing project graph' 34.6175999995321ms
+[NX Daemon Server] - 2023-12-22T16:48:34.240Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:48:34.240Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 34. Response time: 2.
+[NX Daemon Server] - 2023-12-22T16:48:34.314Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-12-22T16:48:34.315Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-12-22T16:48:34.315Z - Handled HASH_TASKS. Handling time: 14. Response time: 1.
+[NX Daemon Server] - 2023-12-22T16:48:35.096Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:48:35.096Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T16:48:35.097Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T16:48:35.100Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T16:48:35.100Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T16:48:35.101Z - Time taken for 'total for creating and serializing project graph' 0.15929999947547913ms
+[NX Daemon Server] - 2023-12-22T16:48:35.101Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T16:48:35.101Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2023-12-22T16:48:41.216Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:48:42.768Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:48:42.830Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:49:01.211Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:49:01.212Z - [WATCHER]: src/app/square/square.component.html was modified
+[NX Daemon Server] - 2023-12-22T16:49:01.320Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:49:01.321Z - [REQUEST]: src/app/square/square.component.html
+[NX Daemon Server] - 2023-12-22T16:49:01.321Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:49:01.365Z - Time taken for 'hash changed files from watcher' 1.294199999421835ms
+[NX Daemon Server] - 2023-12-22T16:50:01.883Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:50:36.995Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:50:36.996Z - [WATCHER]: src/app/square was deleted
+[NX Daemon Server] - 2023-12-22T16:50:37.199Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:50:37.199Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:50:37.199Z - [REQUEST]: src/app/square
+[NX Daemon Server] - 2023-12-22T16:50:37.260Z - Time taken for 'hash changed files from watcher' 0.133500000461936ms
+[NX Daemon Server] - 2023-12-22T16:50:38.072Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:50:39.461Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:50:40.349Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:50:46.371Z - [WATCHER]: src/app/app.component.html was deleted
+[NX Daemon Server] - 2023-12-22T16:50:46.371Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:50:46.494Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:50:46.775Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:50:46.775Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:50:46.775Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-12-22T16:50:46.804Z - Time taken for 'hash changed files from watcher' 0.10810000076889992ms
+[NX Daemon Server] - 2023-12-22T16:51:46.664Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:51:50.968Z - [WATCHER]: angular.json was created or restored
+[NX Daemon Server] - 2023-12-22T16:51:50.968Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:51:51.085Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:51:51.086Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2023-12-22T16:51:51.086Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:51:51.106Z - Time taken for 'hash changed files from watcher' 9.038699999451637ms
+[NX Daemon Server] - 2023-12-22T16:52:13.084Z - [WATCHER]: src/app/app.component.html was created or restored
+[NX Daemon Server] - 2023-12-22T16:52:13.084Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:52:13.191Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:52:13.191Z - [REQUEST]: angular.json,src/app/app.component.html
+[NX Daemon Server] - 2023-12-22T16:52:13.191Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:52:13.202Z - Time taken for 'hash changed files from watcher' 1.2764999996870756ms
+[NX Daemon Server] - 2023-12-22T16:54:35.989Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:54:35.990Z - [WATCHER]: 0 file(s) created or restored, 4 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-12-22T16:54:36.195Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:54:36.195Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.css,src/app/square/square.component.ts,src/app/square/square.component.html,src/app/square/square.component.spec.ts
+[NX Daemon Server] - 2023-12-22T16:54:36.195Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:54:36.214Z - Time taken for 'hash changed files from watcher' 0.5804999992251396ms
+[NX Daemon Server] - 2023-12-22T16:55:07.015Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:55:07.016Z - [WATCHER]: src/app/app.component.html was created or restored
+[NX Daemon Server] - 2023-12-22T16:55:07.124Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:55:07.124Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.css,src/app/square/square.component.ts,src/app/square/square.component.html,src/app/square/square.component.spec.ts
+[NX Daemon Server] - 2023-12-22T16:55:07.124Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:55:07.144Z - Time taken for 'hash changed files from watcher' 0.8099000006914139ms
+[NX Daemon Server] - 2023-12-22T16:55:16.002Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:55:16.003Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-22T16:55:16.219Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:55:16.219Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.css,src/app/square/square.component.ts,src/app/square/square.component.html,src/app/square/square.component.spec.ts
+[NX Daemon Server] - 2023-12-22T16:55:16.219Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:55:16.232Z - Time taken for 'hash changed files from watcher' 0.6110999993979931ms
+[NX Daemon Server] - 2023-12-22T16:55:49.440Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:55:49.441Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2023-12-22T16:55:49.848Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:55:49.848Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.css,src/app/square/square.component.ts,src/app/square/square.component.html,src/app/square/square.component.spec.ts,src/app/app.module.ts
+[NX Daemon Server] - 2023-12-22T16:55:49.848Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T16:55:49.858Z - Time taken for 'hash changed files from watcher' 0.6622999999672174ms
+[NX Daemon Server] - 2023-12-22T16:56:16.565Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:56:16.567Z - [WATCHER]: src/app/square/square.component.css was deleted
+[NX Daemon Server] - 2023-12-22T16:56:16.815Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:56:17.374Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:56:17.374Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.ts,src/app/square/square.component.html,src/app/square/square.component.spec.ts,src/app/app.module.ts
+[NX Daemon Server] - 2023-12-22T16:56:17.374Z - [REQUEST]: src/app/square/square.component.css
+[NX Daemon Server] - 2023-12-22T16:56:17.384Z - Time taken for 'hash changed files from watcher' 0.6288000009953976ms
+[NX Daemon Server] - 2023-12-22T16:56:23.070Z - [WATCHER]: src/app/square/square.component.html was deleted
+[NX Daemon Server] - 2023-12-22T16:56:23.070Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:56:23.192Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:56:24.673Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:56:24.674Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.ts,src/app/square/square.component.spec.ts,src/app/app.module.ts
+[NX Daemon Server] - 2023-12-22T16:56:24.674Z - [REQUEST]: src/app/square/square.component.css,src/app/square/square.component.html
+[NX Daemon Server] - 2023-12-22T16:56:24.683Z - Time taken for 'hash changed files from watcher' 0.6425999999046326ms
+[NX Daemon Server] - 2023-12-22T16:56:59.626Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T16:56:59.626Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:56:59.782Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:57:02.839Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:57:02.839Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.ts,src/app/square/square.component.spec.ts,src/app/app.module.ts
+[NX Daemon Server] - 2023-12-22T16:57:02.839Z - [REQUEST]: src/app/square/square.component.css,src/app/square/square.component.html
+[NX Daemon Server] - 2023-12-22T16:57:02.850Z - Time taken for 'hash changed files from watcher' 0.5587000008672476ms
+[NX Daemon Server] - 2023-12-22T16:57:29.521Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:57:29.522Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T16:57:29.693Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:57:35.933Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:57:35.934Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.ts,src/app/square/square.component.spec.ts,src/app/app.module.ts
+[NX Daemon Server] - 2023-12-22T16:57:35.934Z - [REQUEST]: src/app/square/square.component.css,src/app/square/square.component.html
+[NX Daemon Server] - 2023-12-22T16:57:35.945Z - Time taken for 'hash changed files from watcher' 0.49549999833106995ms
+[NX Daemon Server] - 2023-12-22T16:58:29.899Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:58:29.977Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:58:38.738Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:58:38.739Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T16:58:38.894Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:58:45.143Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:58:45.143Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.ts,src/app/square/square.component.spec.ts,src/app/app.module.ts
+[NX Daemon Server] - 2023-12-22T16:58:45.143Z - [REQUEST]: src/app/square/square.component.css,src/app/square/square.component.html
+[NX Daemon Server] - 2023-12-22T16:58:45.155Z - Time taken for 'hash changed files from watcher' 0.586600000038743ms
+[NX Daemon Server] - 2023-12-22T16:59:30.301Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:59:30.302Z - [WATCHER]: tsconfig.json was modified
+[NX Daemon Server] - 2023-12-22T16:59:33.311Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T16:59:33.311Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:59:36.704Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:59:36.704Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.ts,src/app/square/square.component.spec.ts,src/app/app.module.ts,tsconfig.json
+[NX Daemon Server] - 2023-12-22T16:59:36.704Z - [REQUEST]: src/app/square/square.component.css,src/app/square/square.component.html
+[NX Daemon Server] - 2023-12-22T16:59:36.713Z - Time taken for 'hash changed files from watcher' 0.4089000001549721ms
+[NX Daemon Server] - 2023-12-22T16:59:39.178Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:59:39.179Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T16:59:39.300Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:59:45.583Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T16:59:45.583Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.ts,src/app/square/square.component.spec.ts,src/app/app.module.ts,tsconfig.json
+[NX Daemon Server] - 2023-12-22T16:59:45.583Z - [REQUEST]: src/app/square/square.component.css,src/app/square/square.component.html
+[NX Daemon Server] - 2023-12-22T16:59:45.594Z - Time taken for 'hash changed files from watcher' 0.5898000001907349ms
+[NX Daemon Server] - 2023-12-22T17:00:34.333Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:00:34.335Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T17:00:34.456Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:00:40.744Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:00:40.744Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.ts,src/app/square/square.component.spec.ts,src/app/app.module.ts,tsconfig.json
+[NX Daemon Server] - 2023-12-22T17:00:40.744Z - [REQUEST]: src/app/square/square.component.css,src/app/square/square.component.html
+[NX Daemon Server] - 2023-12-22T17:00:40.754Z - Time taken for 'hash changed files from watcher' 0.6223000008612871ms
+[NX Daemon Server] - 2023-12-22T17:01:07.128Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-22T17:01:07.128Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:01:07.406Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:01:12.245Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:01:12.248Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-22T17:01:12.355Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:01:13.536Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:01:13.536Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.ts,src/app/square/square.component.spec.ts,src/app/app.module.ts,tsconfig.json
+[NX Daemon Server] - 2023-12-22T17:01:13.536Z - [REQUEST]: src/app/square/square.component.css,src/app/square/square.component.html
+[NX Daemon Server] - 2023-12-22T17:01:13.549Z - Time taken for 'hash changed files from watcher' 0.5796999987214804ms
+[NX Daemon Server] - 2023-12-22T17:01:44.969Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T17:01:44.969Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T17:01:44.970Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2023-12-22T17:01:44.972Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:01:44.973Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:01:44.973Z - [REQUEST]: angular.json,src/app/app.component.html,src/app/square/square.component.ts,src/app/square/square.component.spec.ts,src/app/app.module.ts,tsconfig.json
+[NX Daemon Server] - 2023-12-22T17:01:44.973Z - [REQUEST]: src/app/square/square.component.css,src/app/square/square.component.html
+[NX Daemon Server] - 2023-12-22T17:01:44.982Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:01:44.983Z - Time taken for 'hash changed files from watcher' 0.31949999928474426ms
+[NX Daemon Server] - 2023-12-22T17:01:44.983Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:01:49.008Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:01:49.010Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:01:49.022Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:01:49.024Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:01:49.024Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:01:49.026Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:01:49.038Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:01:49.038Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:01:49.038Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:01:49.103Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:01:49.105Z - Time taken for 'hash changed files from watcher' 11.357499999925494ms
+[NX Daemon Server] - 2023-12-22T17:01:49.106Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:01:52.759Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:01:52.763Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:01:52.775Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:01:52.778Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:01:52.779Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:01:52.781Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:01:52.782Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:01:52.782Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:01:52.782Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:01:52.848Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:01:52.851Z - Time taken for 'hash changed files from watcher' 0.3942999988794327ms
+[NX Daemon Server] - 2023-12-22T17:01:52.852Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:02:04.058Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:02:04.060Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:02:04.067Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:02:04.070Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:02:04.070Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:02:04.072Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:02:04.073Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:02:04.073Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:02:04.073Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:02:04.135Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:02:04.137Z - Time taken for 'hash changed files from watcher' 0.44219999946653843ms
+[NX Daemon Server] - 2023-12-22T17:02:04.138Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:03:37.579Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:03:37.581Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:03:37.588Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:03:37.590Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:03:37.590Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:03:37.592Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:03:37.603Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:03:37.603Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:03:37.603Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:03:37.666Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:03:37.668Z - Time taken for 'hash changed files from watcher' 10.782800000160933ms
+[NX Daemon Server] - 2023-12-22T17:03:37.669Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:03:40.092Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:03:40.096Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:03:40.097Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:03:40.098Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T17:03:40.100Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:03:40.102Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:03:40.103Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:03:40.103Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:03:40.103Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:03:40.165Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:03:40.167Z - Time taken for 'hash changed files from watcher' 0.42989999987185ms
+[NX Daemon Server] - 2023-12-22T17:03:40.168Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:05:33.836Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:05:33.839Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:05:33.840Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:05:33.840Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T17:05:33.842Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:05:33.843Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:05:33.844Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:05:33.845Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:05:33.845Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:05:33.906Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:05:33.908Z - Time taken for 'hash changed files from watcher' 0.3887000009417534ms
+[NX Daemon Server] - 2023-12-22T17:05:33.908Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:05:38.918Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:05:38.920Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:05:38.921Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:05:38.923Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:05:38.924Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:05:38.925Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:05:38.926Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:05:38.926Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:05:38.926Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:05:38.987Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:05:38.989Z - Time taken for 'hash changed files from watcher' 0.35050000064074993ms
+[NX Daemon Server] - 2023-12-22T17:05:38.990Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:12:53.643Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:12:53.645Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:12:53.651Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:12:53.653Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:12:53.653Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:12:53.655Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:12:53.683Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:12:53.683Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:12:53.683Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:12:53.748Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:12:53.751Z - Time taken for 'hash changed files from watcher' 26.866499999538064ms
+[NX Daemon Server] - 2023-12-22T17:12:53.751Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:12:57.377Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:12:57.380Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:12:57.385Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:12:57.387Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:12:57.388Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:12:57.390Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:12:57.402Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:12:57.402Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:12:57.402Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:12:57.467Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:12:57.469Z - Time taken for 'hash changed files from watcher' 10.270899999886751ms
+[NX Daemon Server] - 2023-12-22T17:12:57.469Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:13:01.003Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:13:01.005Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:13:01.012Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:13:01.014Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:13:01.014Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:13:01.016Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:13:01.017Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:13:01.017Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:13:01.017Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:13:01.081Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:13:01.084Z - Time taken for 'hash changed files from watcher' 0.3993999995291233ms
+[NX Daemon Server] - 2023-12-22T17:13:01.084Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:13:04.711Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:13:04.714Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:13:04.716Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:13:04.719Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:13:04.720Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:13:04.722Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:13:04.723Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:13:04.723Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:13:04.724Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:13:04.790Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:13:04.792Z - Time taken for 'hash changed files from watcher' 0.4007000010460615ms
+[NX Daemon Server] - 2023-12-22T17:13:04.793Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:14:16.500Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:14:16.503Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:14:16.504Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:14:16.505Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T17:14:16.506Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:14:16.508Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:14:16.510Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:14:16.510Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:14:16.510Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:14:16.572Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:14:16.575Z - Time taken for 'hash changed files from watcher' 0.381699999794364ms
+[NX Daemon Server] - 2023-12-22T17:14:16.575Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:14:18.973Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:14:18.977Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:14:18.987Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:14:18.990Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:14:18.990Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:14:18.992Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:14:19.019Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:14:19.020Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:14:19.020Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:14:19.094Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:14:19.097Z - Time taken for 'hash changed files from watcher' 26.50080000050366ms
+[NX Daemon Server] - 2023-12-22T17:14:19.097Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:14:20.249Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:14:20.252Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:14:20.258Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:14:20.260Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:14:20.260Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:14:20.262Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:14:20.263Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:14:20.263Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:14:20.263Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:14:20.325Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - AngularProjects/tictactoe
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:14:20.327Z - Time taken for 'hash changed files from watcher' 0.3453999999910593ms
+[NX Daemon Server] - 2023-12-22T17:14:20.328Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:19:01.889Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:19:01.891Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:19:01.892Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:19:01.894Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T17:19:01.895Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:19:01.897Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:19:01.906Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:19:01.906Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:19:01.906Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:19:01.965Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+  - AngularProjects/tictactoe/
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+  - AngularProjects/tictactoe/
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:19:01.968Z - Time taken for 'hash changed files from watcher' 8.672399999573827ms
+[NX Daemon Server] - 2023-12-22T17:19:01.968Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:19:05.515Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:19:05.517Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:19:05.523Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:19:05.527Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:19:05.527Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:19:05.529Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:19:05.539Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:19:05.539Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:19:05.539Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:19:05.598Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+  - AngularProjects/tictactoe/
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+  - AngularProjects/tictactoe/
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T17:19:05.601Z - Time taken for 'hash changed files from watcher' 9.548500001430511ms
+[NX Daemon Server] - 2023-12-22T17:19:05.602Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T17:21:13.442Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T17:21:13.445Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T17:21:13.453Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:21:13.456Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:21:13.456Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:21:13.458Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:21:13.484Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:21:13.484Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:21:13.484Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:21:13.600Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T17:21:13.603Z - Time taken for 'total for creating and serializing project graph' 142.43930000066757ms
+[NX Daemon Server] - 2023-12-22T17:21:13.603Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T17:21:13.603Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 142. Response time: 3.
+[NX Daemon Server] - 2023-12-22T17:21:14.050Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:21:23.965Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:21:23.965Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:21:23.966Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:21:23.968Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:21:23.968Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T17:21:23.970Z - Time taken for 'total for creating and serializing project graph' 0.21880000084638596ms
+[NX Daemon Server] - 2023-12-22T17:21:23.970Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T17:21:23.970Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T17:21:24.293Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:21:27.588Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:21:27.589Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:21:27.589Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:21:27.591Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:21:27.592Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T17:21:27.594Z - Time taken for 'total for creating and serializing project graph' 0.15810000151395798ms
+[NX Daemon Server] - 2023-12-22T17:21:27.594Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T17:21:27.594Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2023-12-22T17:21:27.927Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:21:31.240Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:21:31.241Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:21:31.241Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:21:31.244Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:21:31.244Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T17:21:31.247Z - Time taken for 'total for creating and serializing project graph' 0.27759999968111515ms
+[NX Daemon Server] - 2023-12-22T17:21:31.247Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T17:21:31.247Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2023-12-22T17:21:31.637Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:21:34.460Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:21:34.461Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:21:34.462Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:21:34.464Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:21:34.464Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T17:21:34.465Z - Time taken for 'total for creating and serializing project graph' 0.2571000009775162ms
+[NX Daemon Server] - 2023-12-22T17:21:34.466Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T17:21:34.466Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T17:21:34.854Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:21:34.908Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-12-22T17:21:34.909Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:21:35.016Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:21:35.016Z - [REQUEST]: app/board/board.component.html,app/board/board.component.ts,app/board/board.component.spec.ts,app/board/board.component.css
+[NX Daemon Server] - 2023-12-22T17:21:35.016Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:21:35.060Z - Time taken for 'hash changed files from watcher' 0.37490000016987324ms
+[NX Daemon Server] - 2023-12-22T17:21:52.883Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:22:25.973Z - [WATCHER]: app/board was deleted
+[NX Daemon Server] - 2023-12-22T17:22:25.973Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:22:26.188Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:22:26.188Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:22:26.188Z - [REQUEST]: app/board
+[NX Daemon Server] - 2023-12-22T17:22:26.265Z - Time taken for 'hash changed files from watcher' 0.15280000120401382ms
+[NX Daemon Server] - 2023-12-22T17:22:32.721Z - [WATCHER]: app was deleted
+[NX Daemon Server] - 2023-12-22T17:22:32.721Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:22:33.123Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:22:33.123Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:22:33.123Z - [REQUEST]: app
+[NX Daemon Server] - 2023-12-22T17:22:33.167Z - Time taken for 'hash changed files from watcher' 0.09489999897778034ms
+[NX Daemon Server] - 2023-12-22T17:22:41.307Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:22:41.308Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:22:41.308Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:22:41.311Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:22:41.311Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T17:22:41.312Z - Time taken for 'total for creating and serializing project graph' 0.19709999859333038ms
+[NX Daemon Server] - 2023-12-22T17:22:41.312Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T17:22:41.312Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-12-22T17:22:41.667Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:22:47.429Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:22:47.430Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:22:47.431Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T17:22:47.433Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T17:22:47.433Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T17:22:47.435Z - Time taken for 'total for creating and serializing project graph' 0.16939999908208847ms
+[NX Daemon Server] - 2023-12-22T17:22:47.435Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T17:22:47.435Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T17:22:47.763Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T17:22:47.816Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:22:47.818Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-12-22T17:22:47.927Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:22:47.927Z - [REQUEST]: src/app/board/board.component.html,src/app/board/board.component.css,src/app/board/board.component.ts,src/app/board/board.component.spec.ts
+[NX Daemon Server] - 2023-12-22T17:22:47.927Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:22:47.967Z - Time taken for 'hash changed files from watcher' 0.7211999986320734ms
+[NX Daemon Server] - 2023-12-22T17:23:09.102Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:23:09.104Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-12-22T17:23:09.212Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:23:09.212Z - [REQUEST]: src/app/board/board.component.scss
+[NX Daemon Server] - 2023-12-22T17:23:09.212Z - [REQUEST]: src/app/board/board.component.css
+[NX Daemon Server] - 2023-12-22T17:23:09.256Z - Time taken for 'hash changed files from watcher' 0.853600000962615ms
+[NX Daemon Server] - 2023-12-22T17:23:20.114Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-12-22T17:23:20.115Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:23:20.316Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:23:20.316Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-12-22T17:23:20.316Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:23:20.362Z - Time taken for 'hash changed files from watcher' 0.43099999986588955ms
+[NX Daemon Server] - 2023-12-22T17:26:53.498Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-12-22T17:26:53.498Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:26:53.900Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:26:53.900Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-12-22T17:26:53.900Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:26:53.935Z - Time taken for 'hash changed files from watcher' 0.4104999992996454ms
+[NX Daemon Server] - 2023-12-22T17:32:36.647Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-12-22T17:32:36.647Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:32:37.457Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:32:37.457Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-12-22T17:32:37.457Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:32:37.501Z - Time taken for 'hash changed files from watcher' 0.3657999988645315ms
+[NX Daemon Server] - 2023-12-22T17:56:27.321Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:56:27.322Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-12-22T17:56:28.929Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:56:28.929Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-12-22T17:56:28.929Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:56:28.996Z - Time taken for 'hash changed files from watcher' 0.7166000008583069ms
+[NX Daemon Server] - 2023-12-22T17:59:03.061Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-12-22T17:59:03.061Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T17:59:06.274Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T17:59:06.274Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-12-22T17:59:06.274Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T17:59:06.313Z - Time taken for 'hash changed files from watcher' 0.3548000007867813ms
+[NX Daemon Server] - 2023-12-22T18:01:53.019Z - [WATCHER]: src/app/board/board.component.scss was modified
+[NX Daemon Server] - 2023-12-22T18:01:53.019Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:01:56.204Z - [WATCHER]: src/app/board/board.component.scss was modified
+[NX Daemon Server] - 2023-12-22T18:01:56.205Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:01:59.427Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T18:01:59.428Z - [REQUEST]: src/app/board/board.component.scss
+[NX Daemon Server] - 2023-12-22T18:01:59.428Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T18:01:59.478Z - Time taken for 'hash changed files from watcher' 0.34849999845027924ms
+[NX Daemon Server] - 2023-12-22T18:02:19.348Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-22T18:02:19.348Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:02:25.750Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T18:02:25.750Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2023-12-22T18:02:25.750Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T18:02:25.808Z - Time taken for 'hash changed files from watcher' 0.5360000021755695ms
+[NX Daemon Server] - 2023-12-22T18:02:43.297Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2023-12-22T18:02:43.297Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:02:44.075Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:02:44.138Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:02:49.710Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T18:02:49.710Z - [REQUEST]: src/app/app.module.ts
+[NX Daemon Server] - 2023-12-22T18:02:49.710Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T18:02:49.758Z - Time taken for 'hash changed files from watcher' 0.2703000009059906ms
+[NX Daemon Server] - 2023-12-22T18:03:21.411Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-22T18:03:21.411Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:03:21.566Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:03:27.813Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T18:03:27.813Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-12-22T18:03:27.813Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T18:03:27.853Z - Time taken for 'hash changed files from watcher' 0.44370000064373016ms
+[NX Daemon Server] - 2023-12-22T18:03:29.374Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-22T18:03:29.374Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:03:29.652Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:03:30.803Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:03:35.784Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T18:03:35.784Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-22T18:03:35.784Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T18:03:35.819Z - Time taken for 'hash changed files from watcher' 0.330400001257658ms
+[NX Daemon Server] - 2023-12-22T18:05:54.347Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T18:05:54.347Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:05:54.735Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:06:00.755Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T18:06:00.755Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T18:06:00.755Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T18:06:00.792Z - Time taken for 'hash changed files from watcher' 0.4481000006198883ms
+[NX Daemon Server] - 2023-12-22T18:06:40.927Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-22T18:06:40.927Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:06:41.146Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:06:47.329Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T18:06:47.329Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-22T18:06:47.329Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T18:06:47.373Z - Time taken for 'hash changed files from watcher' 0.1940000019967556ms
+[NX Daemon Server] - 2023-12-22T18:06:50.410Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:06:50.412Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-22T18:06:50.615Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:06:56.817Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T18:06:56.817Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-22T18:06:56.817Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T18:06:56.860Z - Time taken for 'hash changed files from watcher' 0.3150999993085861ms
+[NX Daemon Server] - 2023-12-22T18:07:50.753Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:12:41.500Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2023-12-22T18:12:41.500Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:12:42.240Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:12:42.242Z - [WATCHER]: Stopping the watcher for C:\Users\jaspr\.vscode\AngularProjects\tictactoe (sources)
+[NX Daemon Server] - 2023-12-22T18:12:42.242Z - [WATCHER]: Stopping the watcher for C:\Users\jaspr\.vscode\AngularProjects\tictactoe (outputs)
+[NX Daemon Server] - 2023-12-22T18:12:42.242Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2023-12-22T18:58:37.899Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T18:58:37.902Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T18:58:37.915Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T18:58:37.918Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T18:58:37.918Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T18:58:37.921Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T18:58:37.922Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T18:58:37.922Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T18:58:37.922Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T18:58:38.011Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T18:58:38.013Z - Time taken for 'hash changed files from watcher' 0.5165999978780746ms
+[NX Daemon Server] - 2023-12-22T18:58:38.015Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T18:59:11.695Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T18:59:11.697Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T18:59:11.698Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T18:59:11.699Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T18:59:11.700Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T18:59:11.702Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T18:59:11.728Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T18:59:11.728Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T18:59:11.728Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T18:59:11.897Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T18:59:11.899Z - Time taken for 'total for creating and serializing project graph' 194.9475999996066ms
+[NX Daemon Server] - 2023-12-22T18:59:11.899Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T18:59:11.899Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 195. Response time: 2.
+[NX Daemon Server] - 2023-12-22T18:59:11.969Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-12-22T18:59:11.969Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-12-22T18:59:11.970Z - Handled HASH_TASKS. Handling time: 12. Response time: 1.
+[NX Daemon Server] - 2023-12-22T18:59:13.053Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T18:59:13.053Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T18:59:13.054Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T18:59:13.056Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T18:59:13.056Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T18:59:13.057Z - Time taken for 'total for creating and serializing project graph' 0.2864999994635582ms
+[NX Daemon Server] - 2023-12-22T18:59:13.058Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T18:59:13.058Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T18:59:19.168Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:59:24.910Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T18:59:24.972Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:00:35.805Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:00:35.806Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:00:35.914Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:00:35.914Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:00:35.914Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:00:35.971Z - Time taken for 'hash changed files from watcher' 0.3066999986767769ms
+[NX Daemon Server] - 2023-12-22T19:00:36.351Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:01:36.650Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:01:37.055Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:01:37.181Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:01:57.478Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:01:57.478Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:01:57.679Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:01:57.679Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:01:57.679Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:01:57.733Z - Time taken for 'hash changed files from watcher' 0.48429999873042107ms
+[NX Daemon Server] - 2023-12-22T19:01:57.991Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:01:58.054Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:02:16.415Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:02:16.417Z - [WATCHER]: angular.json was created or restored
+[NX Daemon Server] - 2023-12-22T19:02:16.524Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:02:16.524Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2023-12-22T19:02:16.524Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:02:16.538Z - Time taken for 'hash changed files from watcher' 0.438400000333786ms
+[NX Daemon Server] - 2023-12-22T19:02:18.859Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:02:18.860Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:02:19.062Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:02:19.062Z - [REQUEST]: angular.json,src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:02:19.063Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:02:19.073Z - Time taken for 'hash changed files from watcher' 0.42339999973773956ms
+[NX Daemon Server] - 2023-12-22T19:02:30.363Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:02:30.364Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:02:30.770Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:02:30.770Z - [REQUEST]: angular.json,src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:02:30.770Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:02:30.782Z - Time taken for 'hash changed files from watcher' 0.5177999995648861ms
+[NX Daemon Server] - 2023-12-22T19:02:50.645Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:02:50.648Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T19:03:04.292Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:03:04.293Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T19:03:04.293Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:03:04.296Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T19:03:04.296Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:03:04.296Z - [REQUEST]: angular.json,src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:03:04.296Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:03:04.307Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T19:03:04.308Z - Time taken for 'hash changed files from watcher' 0.21580000221729279ms
+[NX Daemon Server] - 2023-12-22T19:03:04.308Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T19:07:14.627Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T19:07:14.629Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T19:07:14.642Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:07:14.644Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T19:07:14.644Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:07:14.645Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T19:07:14.658Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:07:14.658Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:07:14.658Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:07:14.714Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-22T19:07:14.717Z - Time taken for 'hash changed files from watcher' 11.615000002086163ms
+[NX Daemon Server] - 2023-12-22T19:07:14.717Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-22T19:07:36.083Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T19:07:36.085Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T19:07:36.093Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:07:36.095Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T19:07:36.095Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:07:36.097Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T19:07:36.108Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:07:36.109Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:07:36.109Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:07:36.213Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T19:07:36.215Z - Time taken for 'total for creating and serializing project graph' 115.6140000000596ms
+[NX Daemon Server] - 2023-12-22T19:07:36.215Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T19:07:36.215Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 116. Response time: 2.
+[NX Daemon Server] - 2023-12-22T19:07:36.283Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-12-22T19:07:36.283Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-12-22T19:07:36.283Z - Handled HASH_TASKS. Handling time: 14. Response time: 0.
+[NX Daemon Server] - 2023-12-22T19:07:37.003Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T19:07:37.003Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:07:37.003Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T19:07:37.006Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T19:07:37.006Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T19:07:37.007Z - Time taken for 'total for creating and serializing project graph' 0.23310000076889992ms
+[NX Daemon Server] - 2023-12-22T19:07:37.008Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T19:07:37.008Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T19:07:49.304Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:07:49.397Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:09:38.890Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:09:38.892Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:09:39.000Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:09:39.000Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:09:39.000Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:09:39.053Z - Time taken for 'hash changed files from watcher' 0.2677999995648861ms
+[NX Daemon Server] - 2023-12-22T19:09:40.141Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:10:40.551Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:10:40.691Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:11:18.753Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:11:18.754Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:11:18.957Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:11:18.957Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:11:18.957Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:11:19.017Z - Time taken for 'hash changed files from watcher' 0.5703999996185303ms
+[NX Daemon Server] - 2023-12-22T19:11:19.080Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:12:18.785Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:12:18.786Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-22T19:12:19.177Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:12:19.194Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:12:19.194Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-22T19:12:19.194Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:12:19.240Z - Time taken for 'hash changed files from watcher' 0.6445000022649765ms
+[NX Daemon Server] - 2023-12-22T19:12:34.078Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:12:34.082Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T19:12:45.131Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:12:45.132Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T19:12:45.132Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:12:45.135Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T19:12:45.135Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T19:12:45.137Z - Time taken for 'total for creating and serializing project graph' 0.22700000181794167ms
+[NX Daemon Server] - 2023-12-22T19:12:45.137Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T19:12:45.137Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T19:12:45.205Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-12-22T19:12:45.205Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-12-22T19:12:45.205Z - Handled HASH_TASKS. Handling time: 14. Response time: 0.
+[NX Daemon Server] - 2023-12-22T19:12:45.990Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T19:12:45.990Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:12:45.991Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T19:12:45.993Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T19:12:45.993Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T19:12:45.994Z - Time taken for 'total for creating and serializing project graph' 0.16270000115036964ms
+[NX Daemon Server] - 2023-12-22T19:12:45.995Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T19:12:45.995Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T19:12:53.703Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:12:53.859Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:14:54.238Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:14:54.239Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:14:54.348Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:14:54.348Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:14:54.348Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:14:54.390Z - Time taken for 'hash changed files from watcher' 0.454500000923872ms
+[NX Daemon Server] - 2023-12-22T19:14:55.269Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:14:56.515Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:15:19.115Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:15:19.117Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:15:19.318Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:15:19.319Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:15:19.319Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:15:19.357Z - Time taken for 'hash changed files from watcher' 0.3991999998688698ms
+[NX Daemon Server] - 2023-12-22T19:15:33.975Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:15:33.975Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:15:34.380Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:15:34.380Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-12-22T19:15:34.380Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:15:34.427Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:15:34.430Z - Time taken for 'hash changed files from watcher' 0.3466000035405159ms
+[NX Daemon Server] - 2023-12-22T19:15:35.625Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:15:36.140Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:15:36.312Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:15:39.448Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:15:39.450Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:15:39.715Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:15:40.264Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:15:40.264Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-12-22T19:15:40.264Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:15:40.300Z - Time taken for 'hash changed files from watcher' 0.5806000009179115ms
+[NX Daemon Server] - 2023-12-22T19:16:08.602Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:16:08.603Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-22T19:16:09.146Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:16:10.212Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:16:10.212Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-12-22T19:16:10.213Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:16:10.263Z - Time taken for 'hash changed files from watcher' 0.47599999979138374ms
+[NX Daemon Server] - 2023-12-22T19:17:09.529Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:17:09.667Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:23:43.457Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:23:43.457Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:23:43.974Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:23:46.669Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:23:46.669Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:23:46.669Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:23:46.714Z - Time taken for 'hash changed files from watcher' 0.3150000013411045ms
+[NX Daemon Server] - 2023-12-22T19:24:44.347Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:35:58.628Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:35:58.630Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:35:59.004Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:36:05.043Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:36:05.043Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:36:05.043Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:36:05.091Z - Time taken for 'hash changed files from watcher' 0.3245999999344349ms
+[NX Daemon Server] - 2023-12-22T19:36:59.255Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:37:05.711Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:37:05.713Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-22T19:37:06.067Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:37:12.123Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:37:12.123Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-22T19:37:12.123Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:37:12.161Z - Time taken for 'hash changed files from watcher' 0.3273000009357929ms
+[NX Daemon Server] - 2023-12-22T19:37:15.772Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:37:15.773Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-22T19:37:16.084Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:37:22.174Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:37:22.174Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-22T19:37:22.174Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:37:22.222Z - Time taken for 'hash changed files from watcher' 0.3361000008881092ms
+[NX Daemon Server] - 2023-12-22T19:38:16.333Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:38:17.112Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:38:17.113Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:38:17.455Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:38:23.525Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:38:23.525Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:38:23.525Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:38:23.561Z - Time taken for 'hash changed files from watcher' 0.5200999975204468ms
+[NX Daemon Server] - 2023-12-22T19:38:42.319Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:38:42.321Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:38:42.630Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:38:48.731Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:38:48.731Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:38:48.731Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:38:48.768Z - Time taken for 'hash changed files from watcher' 0.2655000016093254ms
+[NX Daemon Server] - 2023-12-22T19:39:21.865Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:39:21.866Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:39:22.175Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:39:23.392Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:39:28.268Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:39:28.269Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:39:28.269Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:39:28.305Z - Time taken for 'hash changed files from watcher' 0.4010999985039234ms
+[NX Daemon Server] - 2023-12-22T19:41:50.928Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:41:50.930Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T19:42:02.458Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:42:02.459Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T19:42:02.459Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:42:02.461Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T19:42:02.461Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T19:42:02.464Z - Time taken for 'total for creating and serializing project graph' 0.25290000066161156ms
+[NX Daemon Server] - 2023-12-22T19:42:02.464Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T19:42:02.464Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2023-12-22T19:42:02.527Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-12-22T19:42:02.527Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-12-22T19:42:02.527Z - Handled HASH_TASKS. Handling time: 13. Response time: 0.
+[NX Daemon Server] - 2023-12-22T19:42:03.558Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T19:42:03.558Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:42:03.559Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T19:42:03.560Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T19:42:03.561Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T19:42:03.562Z - Time taken for 'total for creating and serializing project graph' 0.14640000090003014ms
+[NX Daemon Server] - 2023-12-22T19:42:03.562Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T19:42:03.562Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2023-12-22T19:42:10.593Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:42:10.749Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:42:39.705Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-22T19:42:39.706Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:42:39.815Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:42:39.815Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-22T19:42:39.815Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:42:39.859Z - Time taken for 'hash changed files from watcher' 0.3653999976813793ms
+[NX Daemon Server] - 2023-12-22T19:42:41.579Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:43:00.287Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:43:00.287Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:43:00.488Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:43:00.488Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:43:00.488Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:43:00.531Z - Time taken for 'hash changed files from watcher' 0.39000000059604645ms
+[NX Daemon Server] - 2023-12-22T19:43:01.114Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:43:02.314Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:43:32.377Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-22T19:43:32.377Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:43:32.751Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:43:32.783Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:43:32.784Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-22T19:43:32.784Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:43:32.831Z - Time taken for 'hash changed files from watcher' 0.2890000008046627ms
+[NX Daemon Server] - 2023-12-22T19:44:09.034Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:44:09.034Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:44:09.440Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:44:09.846Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:44:09.846Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:44:09.846Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:44:09.881Z - Time taken for 'hash changed files from watcher' 0.6480999998748302ms
+[NX Daemon Server] - 2023-12-22T19:44:10.656Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:44:25.877Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:44:25.878Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:44:26.126Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:44:27.489Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:44:27.490Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:44:27.490Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:44:27.534Z - Time taken for 'hash changed files from watcher' 0.30730000138282776ms
+[NX Daemon Server] - 2023-12-22T19:44:41.735Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-22T19:44:41.735Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:44:43.154Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:44:44.947Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:44:44.948Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-22T19:44:44.948Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:44:44.984Z - Time taken for 'hash changed files from watcher' 0.44200000166893005ms
+[NX Daemon Server] - 2023-12-22T19:45:06.629Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T19:45:06.629Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:45:07.129Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:45:08.376Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T19:45:13.040Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T19:45:13.040Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T19:45:13.040Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T19:45:13.081Z - Time taken for 'hash changed files from watcher' 0.3539000004529953ms
+[NX Daemon Server] - 2023-12-22T19:47:27.310Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T19:47:27.311Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T22:42:27.814Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-22T22:42:27.817Z - [WATCHER]: Subscribed to changes within: c:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-22T22:42:27.819Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T22:42:27.820Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T22:42:27.821Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T22:42:27.822Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T22:42:27.852Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T22:42:27.852Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T22:42:27.852Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T22:42:28.473Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T22:42:28.475Z - Time taken for 'total for creating and serializing project graph' 651.2980999946594ms
+[NX Daemon Server] - 2023-12-22T22:42:28.477Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T22:42:28.477Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 651. Response time: 4.
+[NX Daemon Server] - 2023-12-22T22:42:28.481Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T22:42:28.481Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T22:42:28.481Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T22:42:28.482Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T22:42:28.484Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-12-22T22:42:28.484Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-12-22T22:42:28.484Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2023-12-22T22:43:34.074Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:43:34.076Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-22T22:43:34.184Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T22:43:34.184Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-22T22:43:34.184Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T22:43:34.218Z - Time taken for 'hash changed files from watcher' 0.2606000006198883ms
+[NX Daemon Server] - 2023-12-22T22:43:36.200Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T22:43:36.201Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T22:43:36.202Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T22:43:36.205Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T22:43:36.205Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T22:43:36.206Z - Time taken for 'total for creating and serializing project graph' 0.19680000096559525ms
+[NX Daemon Server] - 2023-12-22T22:43:36.207Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T22:43:36.207Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-22T22:43:36.288Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-12-22T22:43:36.288Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-12-22T22:43:36.288Z - Handled HASH_TASKS. Handling time: 16. Response time: 0.
+[NX Daemon Server] - 2023-12-22T22:43:37.476Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T22:43:37.477Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T22:43:37.477Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T22:43:37.479Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T22:43:37.479Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T22:43:37.480Z - Time taken for 'total for creating and serializing project graph' 0.18599999696016312ms
+[NX Daemon Server] - 2023-12-22T22:43:37.480Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T22:43:37.480Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-12-22T22:43:45.269Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:43:47.006Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:45:44.222Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T22:45:44.223Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:45:44.331Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T22:45:44.332Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T22:45:44.332Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T22:45:44.369Z - Time taken for 'hash changed files from watcher' 0.3637000024318695ms
+[NX Daemon Server] - 2023-12-22T22:45:44.705Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:45:46.089Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:49:44.687Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:49:44.689Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-22T22:49:44.891Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T22:49:44.891Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-22T22:49:44.891Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T22:49:44.931Z - Time taken for 'hash changed files from watcher' 0.4693000018596649ms
+[NX Daemon Server] - 2023-12-22T22:49:45.078Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:49:46.356Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:50:16.886Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-22T22:50:16.886Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:50:17.257Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:50:17.289Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T22:50:17.289Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-22T22:50:17.289Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T22:50:17.328Z - Time taken for 'hash changed files from watcher' 0.3804999962449074ms
+[NX Daemon Server] - 2023-12-22T22:50:18.501Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:50:49.739Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-22T22:50:49.739Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:50:50.545Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T22:50:50.545Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-22T22:50:50.545Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T22:50:50.576Z - Time taken for 'hash changed files from watcher' 0.4608999937772751ms
+[NX Daemon Server] - 2023-12-22T22:50:51.073Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:50:54.527Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-22T22:50:54.528Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:50:54.824Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:50:56.052Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T22:50:56.129Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T22:50:56.129Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-22T22:50:56.129Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T22:50:56.164Z - Time taken for 'hash changed files from watcher' 0.39559999853372574ms
+[NX Daemon Server] - 2023-12-23T01:50:54.539Z - There are 3 open connections. Reset inactivity timer.
+[NX Daemon Server] - 2023-12-23T02:19:14.228Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-23T02:19:14.229Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:19:15.482Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:19:16.901Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:19:17.433Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T02:19:17.434Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-23T02:19:17.434Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T02:19:17.472Z - Time taken for 'hash changed files from watcher' 1.47410000115633ms
+[NX Daemon Server] - 2023-12-23T02:20:39.271Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:20:39.272Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-23T02:20:39.688Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:20:40.964Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:20:45.679Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T02:20:45.679Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-23T02:20:45.680Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T02:20:45.712Z - Time taken for 'hash changed files from watcher' 0.3109000027179718ms
+[NX Daemon Server] - 2023-12-23T02:22:01.349Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:22:01.351Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-23T02:22:01.629Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:22:02.870Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:22:06.517Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:22:06.519Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-23T02:22:06.815Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:22:07.752Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T02:22:07.752Z - [REQUEST]: src/app/board/board.component.html,src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-23T02:22:07.752Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T02:22:07.791Z - Time taken for 'hash changed files from watcher' 0.4812999963760376ms
+[NX Daemon Server] - 2023-12-23T02:22:08.020Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:22:56.300Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:22:56.302Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-23T02:22:56.629Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:22:57.890Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:23:02.705Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T02:23:02.706Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-23T02:23:02.706Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T02:23:02.748Z - Time taken for 'hash changed files from watcher' 0.42250000685453415ms
+[NX Daemon Server] - 2023-12-23T02:40:24.533Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-23T02:40:24.533Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:40:24.863Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:40:26.122Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:40:30.945Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T02:40:30.945Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-23T02:40:30.945Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T02:40:31.020Z - Time taken for 'hash changed files from watcher' 0.44269999861717224ms
+[NX Daemon Server] - 2023-12-23T02:42:17.259Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:42:17.260Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-23T02:42:17.616Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:42:18.906Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:42:23.673Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T02:42:23.673Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-23T02:42:23.673Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T02:42:23.705Z - Time taken for 'hash changed files from watcher' 0.5229000002145767ms
+[NX Daemon Server] - 2023-12-23T02:43:21.315Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-23T02:43:21.315Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:43:21.596Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:43:22.846Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:43:27.717Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T02:43:27.717Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-23T02:43:27.717Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T02:43:27.748Z - Time taken for 'hash changed files from watcher' 0.8039000034332275ms
+[NX Daemon Server] - 2023-12-23T02:43:44.337Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:43:44.338Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-23T02:43:44.710Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:43:45.972Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:43:50.750Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T02:43:50.750Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-23T02:43:50.750Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T02:43:50.779Z - Time taken for 'hash changed files from watcher' 0.4156000018119812ms
+[NX Daemon Server] - 2023-12-23T02:44:18.218Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:44:18.221Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-23T02:44:18.499Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:44:19.755Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:44:24.631Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T02:44:24.631Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-23T02:44:24.631Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T02:44:24.665Z - Time taken for 'hash changed files from watcher' 0.3334000036120415ms
+[NX Daemon Server] - 2023-12-23T02:50:48.696Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:50:48.698Z - [WATCHER]: src/app/board/board.component.ts was modified
+[NX Daemon Server] - 2023-12-23T02:50:49.038Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:50:50.348Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:50:55.100Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T02:50:55.100Z - [REQUEST]: src/app/board/board.component.ts
+[NX Daemon Server] - 2023-12-23T02:50:55.100Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T02:50:55.127Z - Time taken for 'hash changed files from watcher' 0.279899999499321ms
+[NX Daemon Server] - 2023-12-23T02:51:14.147Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:51:14.148Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-23T02:51:14.522Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:51:15.828Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:51:20.563Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T02:51:20.563Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-23T02:51:20.563Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T02:51:20.601Z - Time taken for 'hash changed files from watcher' 0.5971999987959862ms
+[NX Daemon Server] - 2023-12-23T02:51:37.058Z - [WATCHER]: src/app/square/square.component.ts was modified
+[NX Daemon Server] - 2023-12-23T02:51:37.058Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:51:37.349Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:51:38.561Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:51:43.468Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T02:51:43.468Z - [REQUEST]: src/app/square/square.component.ts
+[NX Daemon Server] - 2023-12-23T02:51:43.468Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T02:51:43.499Z - Time taken for 'hash changed files from watcher' 0.39649999886751175ms
+[NX Daemon Server] - 2023-12-23T02:51:46.694Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:51:46.695Z - [WATCHER]: src/app/board/board.component.html was modified
+[NX Daemon Server] - 2023-12-23T02:51:46.914Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:51:48.131Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-23T02:51:53.110Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T02:51:53.110Z - [REQUEST]: src/app/board/board.component.html
+[NX Daemon Server] - 2023-12-23T02:51:53.110Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T02:51:53.143Z - Time taken for 'hash changed files from watcher' 0.3620000034570694ms
+[NX Daemon Server] - 2023-12-23T03:30:41.081Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-23T03:30:41.081Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-23T21:57:25.802Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-23T21:57:25.826Z - [WATCHER]: Subscribed to changes within: c:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-23T21:57:25.827Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-23T21:57:25.829Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-23T21:57:25.830Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-23T21:57:25.832Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-23T21:57:25.834Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-23T21:57:25.834Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-23T21:57:25.834Z - [REQUEST]: 

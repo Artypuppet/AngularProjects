@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run tictactoe:build",
+    "startTime": "2023-12-22T16:22:14.676Z",
+    "endTime": "2023-12-22T16:22:37.309Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "tictactoe:build:production",
+      "target": "build",
+      "projectName": "tictactoe",
+      "hash": "4691653753849981728",
+      "startTime": "2023-12-22T16:22:14.685Z",
+      "endTime": "2023-12-22T16:22:37.308Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}
