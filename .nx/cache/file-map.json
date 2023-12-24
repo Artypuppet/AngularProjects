@@ -1,0 +1,173 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.2.7",
+  "deps": {
+    "nx": "17.2.7"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "tictactoe": [
+        {
+          "file": "tictactoe/.editorconfig",
+          "hash": "6686520031028425313"
+        },
+        {
+          "file": "tictactoe/.gitignore",
+          "hash": "13044518069027839699"
+        },
+        {
+          "file": "tictactoe/.vscode/extensions.json",
+          "hash": "12343942279124280405"
+        },
+        {
+          "file": "tictactoe/.vscode/launch.json",
+          "hash": "17038929134016848735"
+        },
+        {
+          "file": "tictactoe/.vscode/tasks.json",
+          "hash": "5336636969995539451"
+        },
+        {
+          "file": "tictactoe/README.md",
+          "hash": "17832467812894135080"
+        },
+        {
+          "file": "tictactoe/nx.json",
+          "hash": "14337075628959369813"
+        },
+        {
+          "file": "tictactoe/package-lock.json",
+          "hash": "1017513023251901983"
+        },
+        {
+          "file": "tictactoe/package.json",
+          "hash": "16518810715759821900"
+        },
+        {
+          "file": "tictactoe/project.json",
+          "hash": "16265762462044036707"
+        },
+        {
+          "file": "tictactoe/src/app/app-routing.module.ts",
+          "hash": "6250625392482207240"
+        },
+        {
+          "file": "tictactoe/src/app/app.component.html",
+          "hash": "6871106368246435732"
+        },
+        {
+          "file": "tictactoe/src/app/app.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "tictactoe/src/app/app.component.spec.ts",
+          "hash": "11531493262861961714"
+        },
+        {
+          "file": "tictactoe/src/app/app.component.ts",
+          "hash": "4782448612807108211"
+        },
+        {
+          "file": "tictactoe/src/app/app.module.ts",
+          "hash": "10655484000876267045"
+        },
+        {
+          "file": "tictactoe/src/app/board/board.component.html",
+          "hash": "10049396790253925211"
+        },
+        {
+          "file": "tictactoe/src/app/board/board.component.scss",
+          "hash": "3743279104818036278"
+        },
+        {
+          "file": "tictactoe/src/app/board/board.component.spec.ts",
+          "hash": "4411926531767789339"
+        },
+        {
+          "file": "tictactoe/src/app/board/board.component.ts",
+          "hash": "7531942117763334326"
+        },
+        {
+          "file": "tictactoe/src/app/square/square.component.spec.ts",
+          "hash": "8904505716504164979"
+        },
+        {
+          "file": "tictactoe/src/app/square/square.component.ts",
+          "hash": "8028843383338456167"
+        },
+        {
+          "file": "tictactoe/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "tictactoe/src/favicon.ico",
+          "hash": "3887491056732423038"
+        },
+        {
+          "file": "tictactoe/src/index.html",
+          "hash": "15356871117166435538"
+        },
+        {
+          "file": "tictactoe/src/main.ts",
+          "hash": "12246588107753938993"
+        },
+        {
+          "file": "tictactoe/src/styles.scss",
+          "hash": "5195668842064076916"
+        },
+        {
+          "file": "tictactoe/tsconfig.app.json",
+          "hash": "17337579397915052279"
+        },
+        {
+          "file": "tictactoe/tsconfig.json",
+          "hash": "2464474237535763641"
+        },
+        {
+          "file": "tictactoe/tsconfig.spec.json",
+          "hash": "15575553540147145788"
+        }
+      ]
+    },
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "2110945332964774953"
+      },
+      {
+        "file": ".nx/nxw.js",
+        "hash": "12745799026369821992"
+      },
+      {
+        "file": ".vscode/launch.json",
+        "hash": "5261667527575740449"
+      },
+      {
+        "file": ".vscode/tasks.json",
+        "hash": "8492026186838290228"
+      },
+      {
+        "file": "angular.json",
+        "hash": "15507746870477510470"
+      },
+      {
+        "file": "nx",
+        "hash": "17165975525224888679"
+      },
+      {
+        "file": "nx.bat",
+        "hash": "16828809655253213278"
+      },
+      {
+        "file": "nx.json",
+        "hash": "4113615187270241914"
+      },
+      {
+        "file": "readme.md",
+        "hash": "12248679838200317327"
+      }
+    ]
+  }
+}
