@@ -1910,3 +1910,23 @@ To fix this, set a unique name for each project in a project.json inside the pro
 [NX Daemon Server] - 2023-12-23T21:57:25.834Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
 [NX Daemon Server] - 2023-12-23T21:57:25.834Z - [REQUEST]: 
 [NX Daemon Server] - 2023-12-23T21:57:25.834Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-24T21:50:18.925Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-24T21:50:18.941Z - [WATCHER]: Subscribed to changes within: c:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-24T21:50:18.942Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T21:50:18.944Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-24T21:50:18.945Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T21:50:18.947Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-24T21:50:18.959Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-24T21:50:18.959Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-24T21:50:18.959Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-24T21:50:19.855Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-24T21:50:19.857Z - Time taken for 'total for creating and serializing project graph' 908.0058999992907ms
+[NX Daemon Server] - 2023-12-24T21:50:19.858Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-24T21:50:19.858Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 908. Response time: 3.
+[NX Daemon Server] - 2023-12-24T21:50:19.863Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-24T21:50:19.864Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T21:50:19.865Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-24T21:50:19.865Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T21:50:19.869Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-12-24T21:50:19.869Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-12-24T21:50:19.869Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
