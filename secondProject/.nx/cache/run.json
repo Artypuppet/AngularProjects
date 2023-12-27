@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run SecondProject:build",
+    "startTime": "2023-12-24T22:36:05.335Z",
+    "endTime": "2023-12-24T22:36:27.984Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "SecondProject:build:production",
+      "target": "build",
+      "projectName": "SecondProject",
+      "hash": "201821242872530305",
+      "startTime": "2023-12-24T22:36:05.344Z",
+      "endTime": "2023-12-24T22:36:27.983Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

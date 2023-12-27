@@ -1930,3 +1930,153 @@ To fix this, set a unique name for each project in a project.json inside the pro
 [NX Daemon Server] - 2023-12-24T21:50:19.869Z - [REQUEST]: Responding to the client. handleRequestFileData
 [NX Daemon Server] - 2023-12-24T21:50:19.869Z - Done responding to the client handleRequestFileData
 [NX Daemon Server] - 2023-12-24T21:50:19.869Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-12-24T22:14:50.788Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-24T22:14:50.797Z - [WATCHER]: Subscribed to changes within: c:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-24T22:14:50.798Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T22:14:50.800Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-24T22:14:50.801Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T22:14:50.804Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-24T22:14:50.813Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-24T22:14:50.813Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-24T22:14:50.813Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-24T22:14:51.012Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-24T22:14:51.015Z - Time taken for 'total for creating and serializing project graph' 208.013100001961ms
+[NX Daemon Server] - 2023-12-24T22:14:51.019Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-24T22:14:51.019Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 208. Response time: 7.
+[NX Daemon Server] - 2023-12-24T22:14:51.026Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-24T22:14:51.026Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-24T22:14:51.027Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-24T22:14:51.027Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T22:14:51.031Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-12-24T22:14:51.031Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-12-24T22:14:51.031Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2023-12-24T22:15:01.108Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-24T22:15:01.109Z - [WATCHER]: angular.json was created or restored
+[NX Daemon Server] - 2023-12-24T22:15:01.215Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-24T22:15:01.215Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2023-12-24T22:15:01.215Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-24T22:15:01.226Z - Time taken for 'hash changed files from watcher' 0.24969999864697456ms
+[NX Daemon Server] - 2023-12-24T23:00:13.360Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-24T23:00:13.360Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-24T23:00:13.360Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2023-12-24T23:00:13.360Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-24T23:00:13.372Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-24T23:00:13.373Z - Time taken for 'hash changed files from watcher' 0.23570000380277634ms
+[NX Daemon Server] - 2023-12-24T23:00:13.373Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-24T23:01:11.053Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-24T23:01:11.058Z - [WATCHER]: Subscribed to changes within: c:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-24T23:01:11.065Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T23:01:11.068Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-24T23:01:11.071Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T23:01:11.080Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-24T23:01:11.082Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-24T23:01:11.082Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-24T23:01:11.082Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-24T23:01:11.226Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-24T23:01:11.229Z - Time taken for 'hash changed files from watcher' 0.6660000011324883ms
+[NX Daemon Server] - 2023-12-24T23:01:11.231Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-24T23:01:22.297Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-24T23:01:22.300Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-24T23:01:22.302Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T23:01:22.305Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-24T23:01:22.305Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T23:01:22.307Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-24T23:01:22.316Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-24T23:01:22.316Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-24T23:01:22.316Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-24T23:01:22.383Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- tictactoe: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async C:\Users\jaspr\.vscode\AngularProjects\tictactoe\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2023-12-24T23:01:22.386Z - Time taken for 'hash changed files from watcher' 8.34849999845028ms
+[NX Daemon Server] - 2023-12-24T23:01:22.386Z - Done responding to the client null
+[NX Daemon Server] - 2023-12-24T23:03:42.796Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\72c2bd6149a0db099a6f\d.sock
+[NX Daemon Server] - 2023-12-24T23:03:42.798Z - [WATCHER]: Subscribed to changes within: C:\Users\jaspr\.vscode\AngularProjects\tictactoe (native)
+[NX Daemon Server] - 2023-12-24T23:03:42.811Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T23:03:42.814Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-24T23:03:42.814Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T23:03:42.815Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-24T23:03:42.816Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-24T23:03:42.816Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-24T23:03:42.816Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-24T23:03:42.913Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-24T23:03:42.915Z - Time taken for 'total for creating and serializing project graph' 97.2339000031352ms
+[NX Daemon Server] - 2023-12-24T23:03:42.915Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-24T23:03:42.915Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 98. Response time: 2.
+[NX Daemon Server] - 2023-12-24T23:03:43.005Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-12-24T23:03:43.006Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-12-24T23:03:43.006Z - Handled HASH_TASKS. Handling time: 18. Response time: 1.
+[NX Daemon Server] - 2023-12-24T23:03:44.414Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-24T23:03:44.414Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T23:03:44.415Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-24T23:03:44.417Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-24T23:03:44.417Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-24T23:03:44.418Z - Time taken for 'total for creating and serializing project graph' 0.15770000219345093ms
+[NX Daemon Server] - 2023-12-24T23:03:44.418Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-24T23:03:44.418Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-12-24T23:03:52.098Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-24T23:04:15.763Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-24T23:04:15.769Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-25T02:03:44.432Z - [WATCHER]: Stopping the watcher for C:\Users\jaspr\.vscode\AngularProjects\tictactoe (sources)
+[NX Daemon Server] - 2023-12-25T02:03:44.433Z - [WATCHER]: Stopping the watcher for C:\Users\jaspr\.vscode\AngularProjects\tictactoe (outputs)
+[NX Daemon Server] - 2023-12-25T02:03:44.433Z - Server stopped because: "10800000ms of inactivity"

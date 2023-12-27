@@ -1,0 +1,10 @@
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m          [2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[2m | [22m[1mEstimated Transfer Size[22m[0m[39m
+[37m[0m[92mstyles.60728feb89969ceb.css[39m[37m  [2m | [22mstyles       [2m | [22m[96m311.07 kB[39m[37m[2m | [22m               [96m19.65 kB[39m[37m[0m[39m
+[37m[0m[92mmain.08335c8a9f1fc54b.js[39m[37m     [2m | [22mmain         [2m | [22m[96m298.43 kB[39m[37m[2m | [22m               [96m75.52 kB[39m[37m[0m[39m
+[37m[0m[92mpolyfills.3e2183ccd3832c33.js[39m[37m[2m | [22mpolyfills    [2m | [22m [96m33.03 kB[39m[37m[2m | [22m               [96m10.62 kB[39m[37m[0m[39m
+[37m[0m[92mruntime.6a5a552bfc1769e3.js[39m[37m  [2m | [22mruntime      [2m | [22m[96m904 bytes[39m[37m[2m | [22m              [96m514 bytes[39m[37m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1m [22m                            [2m | [22m[1mInitial Total[22m[2m | [22m[1m[93m643.42 kB[39m[37m[22m[2m | [22m              [1m106.30 kB[22m[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-24T22:36:27.850Z[39m[37m[22m - Hash: [1m[37m43ba9d09e07d2ba9[39m[37m[22m - Time: [1m[37m19668[39m[37m[22mms[0m[39m
