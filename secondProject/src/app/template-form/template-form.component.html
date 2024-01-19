@@ -1,0 +1,133 @@
+<div class="align">
+    <nb-card>
+        <nb-card-body>
+            <form #f="ngForm" (ngSubmit)="onSubmit(f, Name)">
+                <h1>User Details</h1>
+                <br />
+                <!--  name attribute is necessary to provide an identifier for
+                ngModel instance -->
+                <!-- Inorder to refer to form control instance created by ngModel we bind it 
+                to template reference variable -->
+                <nb-form-field [style.margin]="'auto'">
+                    <nb-icon
+                        nbSuffix
+                        *ngIf="Name.touched && Name.invalid"
+                        icon="alert-circle-outline"
+                        status="danger"
+                    ></nb-icon>
+                    <input
+                        type="text"
+                        placeholder="Name"
+                        name="UserDetails"
+                        #NameReference
+                        ngModel
+                        nbInput
+                        class="form-control"
+                        status="primary"
+                        #Name="ngModel"
+                        (change)="onChange(Name)"
+                        minlength="4"
+                        required
+                    />
+                </nb-form-field>
+                <div
+                    *ngIf="Name.errors?.['required']"
+                    [style.margin]="'auto'"
+                    [style.width.px]="NameReference.offsetWidth"
+                >
+                    <nb-alert
+                        status="danger"
+                        *ngIf="Name.touched && Name.invalid"
+                        >Name field is empty!</nb-alert
+                    >
+                </div>
+                <div
+                    *ngIf="Name.errors?.['minlength']"
+                    [style.margin]="'auto'"
+                    [style.width.px]="NameReference.offsetWidth"
+                >
+                    <nb-alert
+                        status="danger"
+                        *ngIf="Name.touched && Name.invalid"
+                        >Name must be atleast 5 characters!</nb-alert
+                    >
+                </div>
+                <br />
+                <br />
+                <input
+                    type="email"
+                    placeholder="Email"
+                    nbInput
+                    status="primary"
+                    name="Email"
+                    ngModel
+                    #email="ngModel"
+                    pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]+"
+                    required
+                />
+                <div
+                    *ngIf="email.errors?.['required']"
+                    [style.margin]="'auto'"
+                    [style.width.px]="NameReference.offsetWidth"
+                >
+                    <nb-alert
+                        status="danger"
+                        *ngIf="email.touched && email.invalid"
+                        >Email field is empty!</nb-alert
+                    >
+                </div>
+                <div
+                    *ngIf="email.errors?.['pattern']"
+                    [style.margin]="'auto'"
+                    [style.width.px]="NameReference.offsetWidth"
+                >
+                    <nb-alert
+                        status="danger"
+                        *ngIf="email.touched && email.invalid"
+                        >Unrecognized email pattern!</nb-alert
+                    >
+                </div>
+                <br />
+                <br />
+                <textarea
+                    type="text"
+                    placeholder="Address"
+                    rows="10"
+                    cols="30"
+                    nbInput
+                    #AddressReference
+                    status="primary"
+                    name="Address"
+                    #Address="ngModel"
+                    ngModel
+                    required
+                ></textarea>
+                <div
+                    *ngIf="Address.errors?.['required']"
+                    [style.margin]="'auto'"
+                    [style.width.px]="AddressReference.offsetWidth"
+                >
+                    <nb-alert
+                        status="danger"
+                        *ngIf="Address.touched && Address.invalid"
+                        >Address is necessary!
+                    </nb-alert>
+                </div>
+                <br />
+                <br />
+                <button
+                    type="submit"
+                    nbButton
+                    shape="rectangle"
+                    status="primary"
+                    [disabled]="f.invalid"
+                >
+                    Submit
+                </button>
+
+                <br />
+                <br />
+            </form>
+        </nb-card-body>
+    </nb-card>
+</div>

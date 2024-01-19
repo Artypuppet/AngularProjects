@@ -38,12 +38,7 @@
   "pathMappings": {},
   "nxJsonPlugins": [],
   "fileMap": {
-    "nonProjectFiles": [
-      {
-        "file": "src/app/square/square.component.ts",
-        "hash": "16734931009737981865"
-      }
-    ],
+    "nonProjectFiles": [],
     "projectFileMap": {
       "tictactoe": [
         {
@@ -193,7 +188,7 @@
         },
         {
           "file": "src/app/square/square.component.ts",
-          "hash": "16820102301846129567",
+          "hash": "8028843383338456167",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",

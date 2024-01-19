@@ -1,0 +1,196 @@
+<div class="align">
+    <nb-card>
+        <nb-card-body>
+            <form [formGroup]="form" (ngSubmit)="onSubmit()">
+                <h1>User Details</h1>
+                <br />
+                <!--  name attribute is necessary to provide an identifier for
+                ngModel instance -->
+                <!-- Inorder to refer to form control instance created by ngModel we bind it 
+                to template reference variable -->
+                <nb-form-field [style.margin]="'auto'">
+                    <input
+                        type="text"
+                        placeholder="Name"
+                        name="UserDetails"
+                        #NameReference
+                        nbInput
+                        status="primary"
+                        formControlName="name"
+                    />
+                    <nb-icon
+                        *ngIf="
+                            form.controls.name.touched &&
+                            form.controls.name.invalid
+                        "
+                        nbSuffix
+                        icon="alert-circle-outline"
+                        status="danger"
+                    ></nb-icon>
+                </nb-form-field>
+                <div
+                    *ngIf="
+                        form.controls.name.touched && form.controls.name.invalid
+                    "
+                    [style.margin]="'auto'"
+                    [style.width.px]="NameReference.offsetWidth"
+                >
+                    <nb-alert
+                        status="danger"
+                        *ngIf="form.controls.name.errors?.['required']"
+                        >Name field is empty!</nb-alert
+                    >
+                    <nb-alert
+                        status="danger"
+                        *ngIf="form.controls.name.errors?.['minlength']"
+                        >Name must be atleast 5 characters!</nb-alert
+                    >
+                </div>
+                <br />
+                <br />
+                <nb-form-field [style.margin]="'auto'">
+                    <nb-icon
+                        *ngIf="
+                            form.controls.email.touched &&
+                            form.controls.email.invalid
+                        "
+                        nbSuffix
+                        icon="alert-circle-outline"
+                        status="danger"
+                    ></nb-icon>
+                    <input
+                        type="email"
+                        placeholder="Email"
+                        nbInput
+                        status="primary"
+                        name="Email"
+                        formControlName="email"
+                    />
+                </nb-form-field>
+                <div
+                    *ngIf="
+                        form.controls.email.touched &&
+                        form.controls.email.invalid
+                    "
+                    [style.margin]="'auto'"
+                    [style.width.px]="NameReference.offsetWidth"
+                >
+                    <nb-alert
+                        status="danger"
+                        *ngIf="form.controls.email.errors?.['required']"
+                        >Email field is empty!</nb-alert
+                    >
+                    <nb-alert
+                        status="danger"
+                        *ngIf="form.controls.email.errors?.['pattern']"
+                        >Unrecognized email pattern!</nb-alert
+                    >
+                </div>
+                <br />
+                <br />
+                <nb-form-field [style.margin]="'auto'">
+                    <textarea
+                        type="text"
+                        placeholder="Address"
+                        rows="10"
+                        cols="30"
+                        nbInput
+                        #AddressReference
+                        status="primary"
+                        name="Address"
+                        formControlName="address"
+                    ></textarea>
+                    <nb-icon
+                        *ngIf="
+                            form.controls.address.touched &&
+                            form.controls.address.invalid
+                        "
+                        nbSuffix
+                        icon="alert-circle-outline"
+                        status="danger"
+                    ></nb-icon>
+                </nb-form-field>
+                <div
+                    *ngIf="
+                        form.controls.address.touched &&
+                        form.controls.address.invalid
+                    "
+                    [style.margin]="'auto'"
+                    [style.width.px]="AddressReference.offsetWidth"
+                >
+                    <nb-alert status="danger">Address is necessary! </nb-alert>
+                </div>
+                <br />
+                <br />
+
+                <div [formGroup]="form.controls.contactDetails">
+                    <nb-form-field [style.margin]="'auto'">
+                        <input
+                            type="tel"
+                            name="phoneNumber"
+                            placeholder="Phone Number"
+                            nbInput
+                            status="primary"
+                            formControlName="phoneNumber"
+                            #phoneNumber
+                        />
+                        <nb-icon
+                            *ngIf="
+                                form.controls.contactDetails.controls
+                                    .phoneNumber.touched &&
+                                form.controls.contactDetails.controls
+                                    .phoneNumber.invalid &&
+                                form.controls.contactDetails.controls
+                                    .phoneNumber.errors?.['minlength']
+                            "
+                            nbSuffix
+                            icon="alert-circle-outline"
+                            status="danger"
+                        ></nb-icon>
+                    </nb-form-field>
+                    <div
+                        *ngIf="
+                            form.controls.contactDetails.controls.phoneNumber
+                                .touched &&
+                            form.controls.contactDetails.controls.phoneNumber
+                                .invalid
+                        "
+                        [style.margin]="'auto'"
+                        [style.width.px]="phoneNumber.offsetWidth"
+                    >
+                        <nb-alert
+                            status="danger"
+                            *ngIf="form.controls.contactDetails.controls.phoneNumber.errors?.['required']"
+                            >Phone Number is necessary!
+                        </nb-alert>
+                        <nb-alert
+                            status="danger"
+                            *ngIf="!form.controls.contactDetails.controls.phoneNumber.errors?.['minlength'] &&
+                            form.controls.contactDetails.controls.phoneNumber.errors?.['pattern']"
+                            >Wrong Number
+                        </nb-alert>
+                        <nb-alert
+                            status="danger"
+                            *ngIf="form.controls.contactDetails.controls.phoneNumber.errors?.['minlength']"
+                            >Too short
+                        </nb-alert>
+                    </div>
+                </div>
+                <br />
+                <br />
+                <button
+                    type="submit"
+                    nbButton
+                    shape="rectangle"
+                    status="primary"
+                    [disabled]="form.invalid"
+                >
+                    Submit
+                </button>
+
+                <br />
+                <br />
+            </form>
+        </nb-card-body>
+    </nb-card>
+</div>

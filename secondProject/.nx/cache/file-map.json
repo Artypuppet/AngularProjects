@@ -43,11 +43,15 @@
       "SecondProject": [
         {
           "file": ".editorconfig",
-          "hash": "6686520031028425313"
+          "hash": "14559301058128526638"
         },
         {
           "file": ".gitignore",
           "hash": "13044518069027839699"
+        },
+        {
+          "file": ".prettierrc",
+          "hash": "17076843898783110679"
         },
         {
           "file": ".vscode/extensions.json",
@@ -113,7 +117,7 @@
         },
         {
           "file": "project.json",
-          "hash": "17984403454598100633"
+          "hash": "16832555414517624451"
         },
         {
           "file": "src/app/app-routing.module.ts",
@@ -125,11 +129,11 @@
         },
         {
           "file": "src/app/app.component.html",
-          "hash": "7733953917708967165"
+          "hash": "1215779387230363622"
         },
         {
           "file": "src/app/app.component.scss",
-          "hash": "3244421341483603138"
+          "hash": "8656440279752733043"
         },
         {
           "file": "src/app/app.component.spec.ts",
@@ -141,17 +145,80 @@
         },
         {
           "file": "src/app/app.component.ts",
-          "hash": "16691062988575954876",
+          "hash": "1203884412848914229",
           "deps": [
             "npm:@angular/core"
           ]
         },
         {
           "file": "src/app/app.module.ts",
-          "hash": "15911435778894746050",
+          "hash": "3785336229016473280",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/platform-browser",
+            "npm:@nebular/theme",
+            "npm:@angular/forms",
+            "npm:@nebular/eva-icons"
+          ]
+        },
+        {
+          "file": "src/app/interfaces/post-interface.ts",
+          "hash": "2175900048063001325"
+        },
+        {
+          "file": "src/app/reactive-form/reactive-form.component.css",
+          "hash": "3575591598072193565"
+        },
+        {
+          "file": "src/app/reactive-form/reactive-form.component.html",
+          "hash": "12982328431145181164"
+        },
+        {
+          "file": "src/app/reactive-form/reactive-form.component.spec.ts",
+          "hash": "4224004278061105072",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/reactive-form/reactive-form.component.ts",
+          "hash": "10621233629026995876",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/forms",
+            "npm:@nebular/theme"
+          ]
+        },
+        {
+          "file": "src/app/services/array-service.service.ts",
+          "hash": "11144544370846566648",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/template-form/template-form.component.html",
+          "hash": "18177398954816763515"
+        },
+        {
+          "file": "src/app/template-form/template-form.component.scss",
+          "hash": "3688471952848716794"
+        },
+        {
+          "file": "src/app/template-form/template-form.component.spec.ts",
+          "hash": "9956058494479217064",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/template-form/template-form.component.ts",
+          "hash": "1616147623161988443",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/forms",
             "npm:@nebular/theme"
           ]
         },
@@ -165,7 +232,7 @@
         },
         {
           "file": "src/index.html",
-          "hash": "6632348551192492798"
+          "hash": "11526200599692588107"
         },
         {
           "file": "src/main.ts",
