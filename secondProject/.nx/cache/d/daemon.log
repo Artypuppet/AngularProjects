@@ -5838,3 +5838,23 @@ Error: This workspace is more than a week old and is unclaimed. Workspaces must 
 [NX Daemon Server] - 2024-01-17T20:49:11.854Z - There are 3 open connections. Reset inactivity timer.
 [NX Daemon Server] - 2024-01-17T21:04:27.594Z - Closed a connection. Number of open connections: 2
 [NX Daemon Server] - 2024-01-17T21:04:27.596Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-19T00:04:17.802Z - Started listening on: \\.\pipe\nx\C:\Users\jaspr\AppData\Local\Temp\3642fa7be72e698b2947\d.sock
+[NX Daemon Server] - 2024-01-19T00:04:17.815Z - [WATCHER]: Subscribed to changes within: c:\Users\jaspr\.vscode\AngularProjects\secondProject (native)
+[NX Daemon Server] - 2024-01-19T00:04:17.815Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-19T00:04:17.816Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-19T00:04:17.817Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-19T00:04:17.819Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-19T00:04:17.824Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-19T00:04:17.824Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-19T00:04:17.824Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-19T00:04:18.650Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-19T00:04:18.652Z - Time taken for 'total for creating and serializing project graph' 831.4288000017405ms
+[NX Daemon Server] - 2024-01-19T00:04:18.654Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-19T00:04:18.654Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 831. Response time: 4.
+[NX Daemon Server] - 2024-01-19T00:04:18.658Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-19T00:04:18.659Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-19T00:04:18.659Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-19T00:04:18.659Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-19T00:04:18.661Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-19T00:04:18.661Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-19T00:04:18.661Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
