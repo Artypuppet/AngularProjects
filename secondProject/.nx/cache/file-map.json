@@ -47,7 +47,7 @@
         },
         {
           "file": ".gitignore",
-          "hash": "13044518069027839699"
+          "hash": "4832197904652225234"
         },
         {
           "file": ".prettierrc",
@@ -166,12 +166,12 @@
           "hash": "2175900048063001325"
         },
         {
-          "file": "src/app/reactive-form/reactive-form.component.css",
-          "hash": "3575591598072193565"
+          "file": "src/app/reactive-form/reactive-form.component.html",
+          "hash": "8222420983460350414"
         },
         {
-          "file": "src/app/reactive-form/reactive-form.component.html",
-          "hash": "12982328431145181164"
+          "file": "src/app/reactive-form/reactive-form.component.scss",
+          "hash": "8883134381276688032"
         },
         {
           "file": "src/app/reactive-form/reactive-form.component.spec.ts",
@@ -182,7 +182,7 @@
         },
         {
           "file": "src/app/reactive-form/reactive-form.component.ts",
-          "hash": "10621233629026995876",
+          "hash": "14511612698321551197",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
@@ -203,7 +203,7 @@
         },
         {
           "file": "src/app/template-form/template-form.component.scss",
-          "hash": "3688471952848716794"
+          "hash": "15310992555936667510"
         },
         {
           "file": "src/app/template-form/template-form.component.spec.ts",

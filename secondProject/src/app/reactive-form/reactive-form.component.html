@@ -125,10 +125,13 @@
 
                 <div [formGroup]="form.controls.contactDetails">
                     <nb-form-field [style.margin]="'auto'">
+                        <label for="phoneNumber" class="label">
+                            Phone Number
+                        </label>
                         <input
                             type="tel"
                             name="phoneNumber"
-                            placeholder="Phone Number"
+                            placeholder="phoneNumber"
                             nbInput
                             status="primary"
                             formControlName="phoneNumber"
@@ -139,9 +142,7 @@
                                 form.controls.contactDetails.controls
                                     .phoneNumber.touched &&
                                 form.controls.contactDetails.controls
-                                    .phoneNumber.invalid &&
-                                form.controls.contactDetails.controls
-                                    .phoneNumber.errors?.['minlength']
+                                    .phoneNumber.invalid
                             "
                             nbSuffix
                             icon="alert-circle-outline"
@@ -165,7 +166,7 @@
                         </nb-alert>
                         <nb-alert
                             status="danger"
-                            *ngIf="!form.controls.contactDetails.controls.phoneNumber.errors?.['minlength'] &&
+                            *ngIf="
                             form.controls.contactDetails.controls.phoneNumber.errors?.['pattern']"
                             >Wrong Number
                         </nb-alert>
@@ -175,6 +176,49 @@
                             >Too short
                         </nb-alert>
                     </div>
+                    <br />
+                    <br />
+                    <nb-form-field [style.margin]="'auto'">
+                        <nb-icon
+                            *ngIf="
+                                form.controls.skills.touched &&
+                                form.controls.skills.invalid
+                            "
+                            nbSuffix
+                            icon="alert-circle-outline"
+                            status="danger"
+                        >
+                        </nb-icon>
+                        <input
+                            type="text"
+                            placeholder="Skills"
+                            nbInput
+                            status="primary"
+                            #skillInput
+                            (keyup.enter)="addSkills(skillInput)"
+                        />
+                        <nb-list>
+                            <nb-list-item
+                                [style.position]="'relative'"
+                                class="list-item-divider-width"
+                                *ngFor="
+                                    let skill of skills.controls;
+                                    let i = index
+                                "
+                                >{{ skill.value }}
+                                <button
+                                    type="button"
+                                    nbButton
+                                    status="danger"
+                                    [style.position]="'absolute'"
+                                    [style.margin-left]="'60%'"
+                                    (click)="removeSkill(i)"
+                                >
+                                    Remove
+                                </button></nb-list-item
+                            >
+                        </nb-list>
+                    </nb-form-field>
                 </div>
                 <br />
                 <br />
